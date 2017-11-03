@@ -72,6 +72,10 @@ nav ul {
 	align-items: center;
 }
 
+div.about-me h1 {
+	color: #5c5c5c;
+}
+
 .about-me {
 	max-width: 50%;
 	float: right;
